@@ -5,6 +5,7 @@ Bitsavers Eduhub is dedicated to empowering individuals and communities with Bit
 To enable smarter financial decision-making by offering accessible education and support in Bitcoin financial planning.
 
 🎯 Goals
+
 📚 Education: Develop and share resources on Bitcoin basics and advanced concepts.
 
 🎤 Workshops & Outreach: Conduct seminars, webinars, and programs to boost financial literacy.
@@ -14,6 +15,7 @@ To enable smarter financial decision-making by offering accessible education and
 📢 Advocacy: Support inclusive policies that promote Bitcoin financial education for all through article writing.
 
  What You’ll Find Here
+ 
 📖 Educational Materials: Learn about Bitcoin basics, DCA strategies, and financial planning.
 
 🔐 Security & Self-Custody: Guides on private key management, wallet setup, and self-custody best practices.
@@ -23,6 +25,7 @@ To enable smarter financial decision-making by offering accessible education and
 🌍 Community Resources: Tools for workshops, awareness campaigns, and outreach programs.
 
 👥 Team Contributions
+
 This repository is maintained by a collaborative team of:
 ✍️ Educators – Crafting educational content and research.
 🎙️ Advocates – Spreading financial literacy and awareness.
