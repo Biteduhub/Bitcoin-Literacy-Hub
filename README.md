@@ -1,11 +1,8 @@
 # Bitsavers - Eduhub
 Bitsavers Eduhub is dedicated to empowering individuals and communities with Bitcoin financial literacy, promoting financial independence and economic stability.
 
-🚀 Welcome to the Official Bitsavers Eduhub Repository!
-Our mission is to empower individuals and communities with Bitcoin financial literacy to promote financial independence and economic stability.
-
-🎯 Vision
-🔹 To enable smarter financial decision-making by offering accessible education and support in Bitcoin financial planning.
+🎯 Vision:
+To enable smarter financial decision-making by offering accessible education and support in Bitcoin financial planning.
 
 🎯 Goals
 📚 Education: Develop and share resources on Bitcoin basics and advanced concepts.
@@ -14,9 +11,9 @@ Our mission is to empower individuals and communities with Bitcoin financial lit
 
 🤝 Partnerships: Collaborate with schools, community centers, and financial institutions to expand reach.
 
-📢 Advocacy: Support inclusive policies that promote Bitcoin financial education for all.
+📢 Advocacy: Support inclusive policies that promote Bitcoin financial education for all through article writing.
 
-📌 What You’ll Find Here
+ What You’ll Find Here
 📖 Educational Materials: Learn about Bitcoin basics, DCA strategies, and financial planning.
 
 🔐 Security & Self-Custody: Guides on private key management, wallet setup, and self-custody best practices.
@@ -27,8 +24,7 @@ Our mission is to empower individuals and communities with Bitcoin financial lit
 
 👥 Team Contributions
 This repository is maintained by a collaborative team of:
-💻 Developers – Building tools and resources.
-✍️ Content Creators – Crafting educational content and research.
+✍️ Educators – Crafting educational content and research.
 🎙️ Advocates – Spreading financial literacy and awareness.
 
 Together, we are creating a network for financial education and empowerment.
@@ -38,4 +34,4 @@ Together, we are creating a network for financial education and empowerment.
 ✍️ Contribute by adding resources & insights 📖
 🤝 Collaborate with us to promote financial freedom through Bitcoin education 💡
 
-📩 Let’s build a financially independent future together! 🚀
+📩 Let’s build a financially independent future together! #Bitcoin 🚀
