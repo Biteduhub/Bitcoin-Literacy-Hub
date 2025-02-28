@@ -27,8 +27,11 @@ To enable smarter financial decision-making by offering accessible education and
 👥 Team Contributions
 
 This repository is maintained by a collaborative team of:
+
 ✍️ Educators – Crafting educational content and research.
+
 🎙️ Advocates – Spreading financial literacy and awareness.
+
 
 Together, we are creating a network for financial education and empowerment.
 
